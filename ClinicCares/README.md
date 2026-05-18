@@ -8,11 +8,11 @@ ClinicCares is a fully functional web-based clinic management system that stream
 
 ## Members
 
-- Member 1
-- Member 2
-- Member 3
+- Justine Paul H. Daileg
+- Kervin Jetcel E. Jaraplasan
+- John Mark M. Magsino
 
-**Year and Section:** II-___
+BS Information Technology 2A
 
 ## Technologies Used
 
